@@ -1,91 +1,98 @@
-body {
-  margin: 0;
-  padding: 0;
+*{
+    margin: 0;
+    padding: 0;
 }
-
-.navbar
-{
-  background-image: url(/img/bg-image.jpg);
-}
-.position-relative {
-  min-height: 100vh;
-}
-
-.Inicio h1{
- color: #2274D1
-}
-.Inicio p{
-  color: #878787;
-}
-.Inicio span{
-  color: #fff;
-}
-.bg-black{
-  margin-bottom: 20px;
-}
-
-.text-blue{
-  color: #2274D1;
-  font-family: 'Sora';
-}
-
-.Barbe p
-{
-  color: #fff;
-  font-size: 20px;
-}
-
-.Barbe img{
-  width: 280px;
-  height: 260px;
-}
-span
-{
+  
+  .navbar
+  {
+    background-image: url(/img/bg-image.jpg);
+  }
+  .position-relative {
+    min-height: 100vh;
+  }
+  
+  .Inicio h1{
+   color: #2274D1
+  }
+  .Inicio p{
+    color: #878787;
+  }
+  .Inicio span{
+    color: #fff;
+  }
+  .bg-black{
+    margin-bottom: 20px;
+  }
+  
+  .text-blue{
+    color: #2274D1;
+    font-family: 'Sora';
+  }
+  
+  .Barbe p
+  {
+    color: #fff;
+    font-size: 20px;
+  }
+  
+  .Barbe img{
+    width: 180px;
+    height: 180px;
+  }
+  span
+  {
+    color: #000;
+    font-weight: 800;
+  }
+  .Principal img{
+    width: 100%;
+  }
+  .Certificado{
+    margin-top: 150px;
+  }
+  .Certificado h2
+  {
+    color: #000;
+    font-weight: 600;
+  }
+  .Certificado p
+  {
   color: #000;
-  font-weight: 800;
+  } 
+  .Corte
+  {
+   border-bottom: 3px solid #fff;
+  }
+  .T span{
+   color: #2274D1
+  }
+  .T h1
+  {
+    color: #fff;
+    text-align: center;
+  }
+  .T p{
+    color: #fff;
+    text-align: center;
+  }
+ 
+  .centro img{
+    width: 500px;
+  }
+  #final{
+    color: #fff;
+    text-align: center;
+    margin-top: 25px;
+  }
+ #Corte
+ {
+   background-image: url(./Img/Fundo-Barbeiro.jpg);}
+
+.One p{
+    margin-left: 50px;
+    color: #fff;
 }
-.Principal img{
-  width: 100%;
-}
-.Certificado{
-  margin-top: 150px;
-}
-.Certificado h2
-{
-  color: #000;
-  font-weight: 600;
-}
-.Certificado p
-{
-color: #000;
-} 
-.Corte
-{
-  background-color: #000;
- border-bottom: 3px solid #fff;
-}
-.T span{
- color: #2274D1
-}
-.T h1
-{
-  color: #fff;
-  text-align: center;
-}
-.T p{
-  color: #fff;
-  text-align: center;
-}
-.One{
-  color: #fff;
-  margin-left: 45px;
-  text-align: center;
-}
-.centro img{
-  width: 500px;
-}
-#final{
-  color: #fff;
-  text-align: center;
-  margin-top: 25px;
+
+#Fundo{
+    background-image: url("/Img/Fundo-Barbeiro.jpg");
 }
