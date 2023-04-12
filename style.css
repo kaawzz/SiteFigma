@@ -1,0 +1,158 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.position-relative {
+  min-height: 100vh;
+}
+
+.Inicio h1{
+ color: #2274D1
+}
+.Inicio p{
+  color: #878787;
+}
+.Inicio span{
+  color: #fff;
+}
+.bg-black{
+  margin-bottom: 20px;
+}
+
+.text-blue{
+  color: #2274D1;
+  font-family: 'Sora';
+}
+
+.Barbe p
+{
+  color: #fff;
+  font-size: 20px;
+}
+
+.Barbe img{
+  width: 180px;
+  height: 180px;
+}
+span
+{
+  color: #000;
+  font-weight: 800;
+}
+.Principal img{
+  width: 100%;
+}
+.Certificado{
+  margin-top: 150px;
+}
+.Certificado h2
+{
+  color: #000;
+  font-weight: 600;
+}
+.Certificado p
+{
+color: #000;
+} 
+
+.T span{
+ color: #2274D1
+}
+.T h1
+{
+  color: #fff;
+  text-align: center;
+}
+.T p{
+  color: #fff;
+  text-align: center;
+}
+
+.centro img{
+  width: 500px;
+}
+#final{
+  color: #fff;
+  text-align: center;
+  margin-top: 25px;
+}
+#Corte
+ {
+  background-image: url(/Img/Fundo-Barbeiro.jpg);
+  background-color: #000;
+}
+#final{
+  margin-bottom: 150px;
+}
+.One p{
+  margin-left: 50px;
+  color: #fff;
+}
+
+#Fundo {
+  background-color: #000;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.det
+{
+  text-align: center;
+}
+.det h1
+{
+  color: #fff;
+ 
+}
+span {
+  color: #daa520 ;
+  font-size: 35px;
+}
+.det h2{
+  color: #daa520 
+}
+#Paga p{
+  color: #000;
+  background-color: #daa520;
+  text-align: center;
+  display: inline-block;
+  font-size: 25px;
+  width: 600px;
+}
+#Paga, #Pagamento {
+  max-width: 500px;
+  align-items: center;
+  justify-content: center;
+}
+
+#Pagamento
+{
+  text-align: center;
+  background-color: #fff;
+  justify-content: center;
+}
+#barra{
+  border-top: 2px solid #000;
+}
+#Fi{
+  background-color: #000;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.custom-btn 
+{
+  font-family: Sora,Sans-serif;
+  font-size: 22px;
+  text-transform: uppercase;
+  color: #fff;
+  box-shadow: 0 0 10px 0 #000;
+  padding: 22px 126px;
+  transition: all .3s;
+}
